@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "git hello world!"
+echo "this is a shell script"
